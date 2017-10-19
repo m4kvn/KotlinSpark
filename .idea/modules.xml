@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinSpark.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinSpark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinSpark_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinSpark_main.iml" group="KotlinSpark" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinSpark_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinSpark_test.iml" group="KotlinSpark" />
+    </modules>
+  </component>
+</project>
